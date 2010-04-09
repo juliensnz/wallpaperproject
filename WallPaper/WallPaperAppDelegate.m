@@ -48,7 +48,7 @@
 
 - (void)ajouterImage:(NSURL *)location
 {
-	NSLog(@"Chargement de la photo : %@",location);
+	NSLog(@"Chargement de la photo  : %@",location);
 	Image * newImage = [[Image alloc] initWithUrl:location];
 	NSLog(@"valeur de l'image : %@",[newImage getUrl]);
 	[tableauImage addObject:newImage];
