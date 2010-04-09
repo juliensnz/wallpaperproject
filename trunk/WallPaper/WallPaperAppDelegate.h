@@ -8,6 +8,7 @@
 #import <Cocoa/Cocoa.h>
 #import "Image.h"
 
+
 @interface WallPaperAppDelegate : NSObject {
 	NSMutableArray * tableauImage;
     IBOutlet NSWindow *window;
