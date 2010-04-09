@@ -1,0 +1,261 @@
+TWallPaper
+v7
+r0
+t292548198.812846
+cCheck dependencies
+cProcessInfoPlistFile /Users/julien/projet/Xcode/Cocoa/iTonio/WallPaper/build/Debug/WallPaper.app/Contents/Info.plist WallPaper-Info.plist
+cCopyStringsFile /Users/julien/projet/Xcode/Cocoa/iTonio/WallPaper/build/Debug/WallPaper.app/Contents/Resources/English.lproj/InfoPlist.strings English.lproj/InfoPlist.strings
+cCompileXIB /Users/julien/projet/Xcode/Cocoa/iTonio/WallPaper/English.lproj/MainMenu.xib
+cProcessPCH /var/folders/-T/-TexN+12GJyc7RJJ8EcMKE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/WallPaper_Prefix-ftkjcydkbepscecrebixvppvgqeg/WallPaper_Prefix.pch.gch WallPaper_Prefix.pch normal x86_64 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/WallPaper.build/Debug/WallPaper.build/Objects-normal/x86_64/main.o /Users/julien/projet/Xcode/Cocoa/iTonio/WallPaper/main.m normal x86_64 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/WallPaper.build/Debug/WallPaper.build/Objects-normal/x86_64/WallPaperAppDelegate.o /Users/julien/projet/Xcode/Cocoa/iTonio/WallPaper/WallPaperAppDelegate.m normal x86_64 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/WallPaper.build/Debug/WallPaper.build/Objects-normal/x86_64/Image.o /Users/julien/projet/Xcode/Cocoa/iTonio/WallPaper/Image.m normal x86_64 objective-c com.apple.compilers.gcc.4_2
+cLd /Users/julien/projet/Xcode/Cocoa/iTonio/WallPaper/build/Debug/WallPaper.app/Contents/MacOS/WallPaper normal x86_64
+cTouch /Users/julien/projet/Xcode/Cocoa/iTonio/WallPaper/build/Debug/WallPaper.app
+
+N/Developer/SDKs/MacOSX10.6.sdk
+c000000004B99A23900000000000000EE
+t1268359737
+s238
+
+N/Developer/SDKs/MacOSX10.6.sdk/System/Library/Frameworks/Cocoa.framework/Headers/Cocoa.h
+c0000000040C4AA6800000000000001E5
+t1086630504
+s485
+
+N/System/Library/Frameworks/Cocoa.framework/Cocoa
+c000000004A1F2D63000000000000A5E0
+t1243557219
+s42464
+
+N/Users/julien/projet/Xcode/Cocoa/iTonio/WallPaper/English.lproj/InfoPlist.strings
+c000000004BBF3EE1000000000000002D
+t1270824673
+s45
+
+N/Users/julien/projet/Xcode/Cocoa/iTonio/WallPaper/English.lproj/MainMenu.xib
+c000000004BBFAD9B0000000000031F00
+t1270853019
+s204544
+
+N/Users/julien/projet/Xcode/Cocoa/iTonio/WallPaper/Image.h
+c000000004BBFAAF4000000000000011E
+t1270852340
+s286
+i<Cocoa/Cocoa.h>
+
+N/Users/julien/projet/Xcode/Cocoa/iTonio/WallPaper/Image.m
+c000000004BBFAABA0000000000000173
+t1270852282
+s371
+i"Image.h"
+
+N/Users/julien/projet/Xcode/Cocoa/iTonio/WallPaper/WallPaperAppDelegate.h
+c000000004BBFA89A00000000000002F4
+t1270851738
+s756
+i<Cocoa/Cocoa.h>
+i"Image.h"
+
+N/Users/julien/projet/Xcode/Cocoa/iTonio/WallPaper/WallPaperAppDelegate.m
+c000000004BBFB7A80000000000000824
+t1270855592
+s2084
+i"WallPaperAppDelegate.h"
+
+N/Users/julien/projet/Xcode/Cocoa/iTonio/WallPaper/WallPaper_Prefix.pch
+c000000004BBF3EE10000000000000095
+t1270824673
+s149
+i<Cocoa/Cocoa.h>
+
+N/Users/julien/projet/Xcode/Cocoa/iTonio/WallPaper/build/Debug/WallPaper.app
+t1270855398
+s102
+
+N/Users/julien/projet/Xcode/Cocoa/iTonio/WallPaper/build/Debug/WallPaper.app/Contents/Info.plist
+t1270849921
+s892
+
+N/Users/julien/projet/Xcode/Cocoa/iTonio/WallPaper/build/Debug/WallPaper.app/Contents/MacOS/WallPaper
+t1270855398
+s17184
+
+N/Users/julien/projet/Xcode/Cocoa/iTonio/WallPaper/build/Debug/WallPaper.app/Contents/PkgInfo
+t1270849921
+s8
+
+N/Users/julien/projet/Xcode/Cocoa/iTonio/WallPaper/build/Debug/WallPaper.app/Contents/Resources/English.lproj/InfoPlist.strings
+t1270849922
+s92
+
+N/Users/julien/projet/Xcode/Cocoa/iTonio/WallPaper/build/Debug/WallPaper.app/Contents/Resources/English.lproj/MainMenu.nib
+t1270853068
+s40794
+
+N/Users/julien/projet/Xcode/Cocoa/iTonio/WallPaper/build/WallPaper.build/Debug/WallPaper.build/Objects-normal/x86_64/Image.o
+t1270852342
+s9240
+
+N/Users/julien/projet/Xcode/Cocoa/iTonio/WallPaper/build/WallPaper.build/Debug/WallPaper.build/Objects-normal/x86_64/WallPaper.LinkFileList
+c000000004BBFA8920000000000000182
+t1270851730
+s386
+
+N/Users/julien/projet/Xcode/Cocoa/iTonio/WallPaper/build/WallPaper.build/Debug/WallPaper.build/Objects-normal/x86_64/WallPaperAppDelegate.o
+t1270855398
+s32936
+
+N/Users/julien/projet/Xcode/Cocoa/iTonio/WallPaper/build/WallPaper.build/Debug/WallPaper.build/Objects-normal/x86_64/image.o
+t1270851649
+s7832
+
+N/Users/julien/projet/Xcode/Cocoa/iTonio/WallPaper/build/WallPaper.build/Debug/WallPaper.build/Objects-normal/x86_64/main.o
+t1270849922
+s5008
+
+N/Users/julien/projet/Xcode/Cocoa/iTonio/WallPaper/image.h
+c000000004BBFA76000000000000000F3
+t1270851424
+s243
+i<Cocoa/Cocoa.h>
+
+N/Users/julien/projet/Xcode/Cocoa/iTonio/WallPaper/image.m
+c000000004BBFA840000000000000011B
+t1270851648
+s283
+i"image.h"
+
+N/Users/julien/projet/Xcode/Cocoa/iTonio/WallPaper/main.m
+c000000004BBF3EE100000000000000F7
+t1270824673
+s247
+i<Cocoa/Cocoa.h>
+
+N/var/folders/-T/-TexN+12GJyc7RJJ8EcMKE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/WallPaper_Prefix-ftkjcydkbepscecrebixvppvgqeg/WallPaper_Prefix.pch.gch
+t1270824806
+s54265616
+
+NWallPaper-Info.plist
+c000000004BBF3EE100000000000003EA
+t1270824673
+s1002
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies292548198#292548198#0(0"0(0#1#0"4300911832#0"0#
+
+CCompileC build/WallPaper.build/Debug/WallPaper.build/Objects-normal/x86_64/Image.o /Users/julien/projet/Xcode/Cocoa/iTonio/WallPaper/Image.m normal x86_64 objective-c com.apple.compilers.gcc.4_2
+s292545141.911864
+e292545142.133800
+r1
+xCompileC
+xbuild/WallPaper.build/Debug/WallPaper.build/Objects-normal/x86_64/Image.o
+x/Users/julien/projet/Xcode/Cocoa/iTonio/WallPaper/Image.m
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@65"Compile /Users/julien/projet/Xcode/Cocoa/iTonio/WallPaper/Image.m292545141#292545142#0(0"0(0#0#57"/Users/julien/projet/Xcode/Cocoa/iTonio/WallPaper/Image.m4300911832#1613"    cd /Users/julien/projet/Xcode/Cocoa/iTonio/WallPaper    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c -arch x86_64 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -mmacosx-version-min=10.6 -gdwarf-2 -iquote /Users/julien/projet/Xcode/Cocoa/iTonio/WallPaper/build/WallPaper.build/Debug/WallPaper.build/WallPaper-generated-files.hmap -I/Users/julien/projet/Xcode/Cocoa/iTonio/WallPaper/build/WallPaper.build/Debug/WallPaper.build/WallPaper-own-target-headers.hmap -I/Users/julien/projet/Xcode/Cocoa/iTonio/WallPaper/build/WallPaper.build/Debug/WallPaper.build/WallPaper-all-target-headers.hmap -iquote /Users/julien/projet/Xcode/Cocoa/iTonio/WallPaper/build/WallPaper.build/Debug/WallPaper.build/WallPaper-project-headers.hmap -F/Users/julien/projet/Xcode/Cocoa/iTonio/WallPaper/build/Debug -I/Users/julien/projet/Xcode/Cocoa/iTonio/WallPaper/build/Debug/include -I/Users/julien/projet/Xcode/Cocoa/iTonio/WallPaper/build/WallPaper.build/Debug/WallPaper.build/DerivedSources/x86_64 -I/Users/julien/projet/Xcode/Cocoa/iTonio/WallPaper/build/WallPaper.build/Debug/WallPaper.build/DerivedSources -include /var/folders/-T/-TexN+12GJyc7RJJ8EcMKE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/WallPaper_Prefix-ftkjcydkbepscecrebixvppvgqeg/WallPaper_Prefix.pch -c /Users/julien/projet/Xcode/Cocoa/iTonio/WallPaper/Image.m -o /Users/julien/projet/Xcode/Cocoa/iTonio/WallPaper/build/WallPaper.build/Debug/WallPaper.build/Objects-normal/x86_64/Image.o0#
+
+CCompileC build/WallPaper.build/Debug/WallPaper.build/Objects-normal/x86_64/WallPaperAppDelegate.o /Users/julien/projet/Xcode/Cocoa/iTonio/WallPaper/WallPaperAppDelegate.m normal x86_64 objective-c com.apple.compilers.gcc.4_2
+s292548198.170459
+e292548198.757315
+r1
+xCompileC
+xbuild/WallPaper.build/Debug/WallPaper.build/Objects-normal/x86_64/WallPaperAppDelegate.o
+x/Users/julien/projet/Xcode/Cocoa/iTonio/WallPaper/WallPaperAppDelegate.m
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+o/Users/julien/projet/Xcode/Cocoa/iTonio/WallPaper/WallPaperAppDelegate.m: In function '-[WallPaperAppDelegate tableView:objectValueForTableColumn:row:]':
+o/Users/julien/projet/Xcode/Cocoa/iTonio/WallPaper/WallPaperAppDelegate.m:86: warning: comparison between pointer and integer
+o/Users/julien/projet/Xcode/Cocoa/iTonio/WallPaper/WallPaperAppDelegate.m:90: warning: control reaches end of non-void function
+lSLF07#2@80"Compile /Users/julien/projet/Xcode/Cocoa/iTonio/WallPaper/WallPaperAppDelegate.m292548198#292548198#0(406"/Users/julien/projet/Xcode/Cocoa/iTonio/WallPaper/WallPaperAppDelegate.m: In function '-[WallPaperAppDelegate tableView:objectValueForTableColumn:row:]':/Users/julien/projet/Xcode/Cocoa/iTonio/WallPaper/WallPaperAppDelegate.m:86: warning: comparison between pointer and integer/Users/julien/projet/Xcode/Cocoa/iTonio/WallPaper/WallPaperAppDelegate.m:90: warning: control reaches end of non-void function2(22@38"Comparison between pointer and integer292548198#154#125#0(6@72"/Users/julien/projet/Xcode/Cocoa/iTonio/WallPaper/WallPaperAppDelegate.m292548195#86#0#86#0#0"0(22@40"Control reaches end of non-void function292548198#279#127#0(6@72"/Users/julien/projet/Xcode/Cocoa/iTonio/WallPaper/WallPaperAppDelegate.m292548195#90#0#90#0#40"control reaches end of non-void function0(0#0#72"/Users/julien/projet/Xcode/Cocoa/iTonio/WallPaper/WallPaperAppDelegate.m4300911832#1643"    cd /Users/julien/projet/Xcode/Cocoa/iTonio/WallPaper    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c -arch x86_64 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -mmacosx-version-min=10.6 -gdwarf-2 -iquote /Users/julien/projet/Xcode/Cocoa/iTonio/WallPaper/build/WallPaper.build/Debug/WallPaper.build/WallPaper-generated-files.hmap -I/Users/julien/projet/Xcode/Cocoa/iTonio/WallPaper/build/WallPaper.build/Debug/WallPaper.build/WallPaper-own-target-headers.hmap -I/Users/julien/projet/Xcode/Cocoa/iTonio/WallPaper/build/WallPaper.build/Debug/WallPaper.build/WallPaper-all-target-headers.hmap -iquote /Users/julien/projet/Xcode/Cocoa/iTonio/WallPaper/build/WallPaper.build/Debug/WallPaper.build/WallPaper-project-headers.hmap -F/Users/julien/projet/Xcode/Cocoa/iTonio/WallPaper/build/Debug -I/Users/julien/projet/Xcode/Cocoa/iTonio/WallPaper/build/Debug/include -I/Users/julien/projet/Xcode/Cocoa/iTonio/WallPaper/build/WallPaper.build/Debug/WallPaper.build/DerivedSources/x86_64 -I/Users/julien/projet/Xcode/Cocoa/iTonio/WallPaper/build/WallPaper.build/Debug/WallPaper.build/DerivedSources -include /var/folders/-T/-TexN+12GJyc7RJJ8EcMKE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/WallPaper_Prefix-ftkjcydkbepscecrebixvppvgqeg/WallPaper_Prefix.pch -c /Users/julien/projet/Xcode/Cocoa/iTonio/WallPaper/WallPaperAppDelegate.m -o /Users/julien/projet/Xcode/Cocoa/iTonio/WallPaper/build/WallPaper.build/Debug/WallPaper.build/Objects-normal/x86_64/WallPaperAppDelegate.o0#
+
+CCompileC build/WallPaper.build/Debug/WallPaper.build/Objects-normal/x86_64/image.o /Users/julien/projet/Xcode/Cocoa/iTonio/WallPaper/image.m normal x86_64 objective-c com.apple.compilers.gcc.4_2
+s292544448.948943
+e292544449.386121
+r1
+xCompileC
+xbuild/WallPaper.build/Debug/WallPaper.build/Objects-normal/x86_64/image.o
+x/Users/julien/projet/Xcode/Cocoa/iTonio/WallPaper/image.m
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+o/Users/julien/projet/Xcode/Cocoa/iTonio/WallPaper/image.m: In function '-[image getString]':
+o/Users/julien/projet/Xcode/Cocoa/iTonio/WallPaper/image.m:21: warning: incompatible Objective-C types returning 'struct NSURL *', expected 'struct NSString *'
+lSLF07#2@65"Compile /Users/julien/projet/Xcode/Cocoa/iTonio/WallPaper/image.m292544448#292544449#0(252"/Users/julien/projet/Xcode/Cocoa/iTonio/WallPaper/image.m: In function '-[image getString]':/Users/julien/projet/Xcode/Cocoa/iTonio/WallPaper/image.m:21: warning: incompatible Objective-C types returning 'struct NSURL *', expected 'struct NSString *'1(22@87"Incompatible Objective-C types returning 'struct NSURL *', expected 'struct NSString *'292544449#93#159#0(6@57"/Users/julien/projet/Xcode/Cocoa/iTonio/WallPaper/image.m292544448#21#0#21#0#0"0(0#0#57"/Users/julien/projet/Xcode/Cocoa/iTonio/WallPaper/image.m4300911832#1613"    cd /Users/julien/projet/Xcode/Cocoa/iTonio/WallPaper    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c -arch x86_64 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -mmacosx-version-min=10.6 -gdwarf-2 -iquote /Users/julien/projet/Xcode/Cocoa/iTonio/WallPaper/build/WallPaper.build/Debug/WallPaper.build/WallPaper-generated-files.hmap -I/Users/julien/projet/Xcode/Cocoa/iTonio/WallPaper/build/WallPaper.build/Debug/WallPaper.build/WallPaper-own-target-headers.hmap -I/Users/julien/projet/Xcode/Cocoa/iTonio/WallPaper/build/WallPaper.build/Debug/WallPaper.build/WallPaper-all-target-headers.hmap -iquote /Users/julien/projet/Xcode/Cocoa/iTonio/WallPaper/build/WallPaper.build/Debug/WallPaper.build/WallPaper-project-headers.hmap -F/Users/julien/projet/Xcode/Cocoa/iTonio/WallPaper/build/Debug -I/Users/julien/projet/Xcode/Cocoa/iTonio/WallPaper/build/Debug/include -I/Users/julien/projet/Xcode/Cocoa/iTonio/WallPaper/build/WallPaper.build/Debug/WallPaper.build/DerivedSources/x86_64 -I/Users/julien/projet/Xcode/Cocoa/iTonio/WallPaper/build/WallPaper.build/Debug/WallPaper.build/DerivedSources -include /var/folders/-T/-TexN+12GJyc7RJJ8EcMKE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/WallPaper_Prefix-ftkjcydkbepscecrebixvppvgqeg/WallPaper_Prefix.pch -c /Users/julien/projet/Xcode/Cocoa/iTonio/WallPaper/image.m -o /Users/julien/projet/Xcode/Cocoa/iTonio/WallPaper/build/WallPaper.build/Debug/WallPaper.build/Objects-normal/x86_64/image.o0#
+
+CCompileC build/WallPaper.build/Debug/WallPaper.build/Objects-normal/x86_64/main.o /Users/julien/projet/Xcode/Cocoa/iTonio/WallPaper/main.m normal x86_64 objective-c com.apple.compilers.gcc.4_2
+s292542722.558116
+e292542722.855852
+r1
+xCompileC
+xbuild/WallPaper.build/Debug/WallPaper.build/Objects-normal/x86_64/main.o
+x/Users/julien/projet/Xcode/Cocoa/iTonio/WallPaper/main.m
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@64"Compile /Users/julien/projet/Xcode/Cocoa/iTonio/WallPaper/main.m292542722#292542722#0(0"0(0#0#56"/Users/julien/projet/Xcode/Cocoa/iTonio/WallPaper/main.m4300911832#1611"    cd /Users/julien/projet/Xcode/Cocoa/iTonio/WallPaper    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c -arch x86_64 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -mmacosx-version-min=10.6 -gdwarf-2 -iquote /Users/julien/projet/Xcode/Cocoa/iTonio/WallPaper/build/WallPaper.build/Debug/WallPaper.build/WallPaper-generated-files.hmap -I/Users/julien/projet/Xcode/Cocoa/iTonio/WallPaper/build/WallPaper.build/Debug/WallPaper.build/WallPaper-own-target-headers.hmap -I/Users/julien/projet/Xcode/Cocoa/iTonio/WallPaper/build/WallPaper.build/Debug/WallPaper.build/WallPaper-all-target-headers.hmap -iquote /Users/julien/projet/Xcode/Cocoa/iTonio/WallPaper/build/WallPaper.build/Debug/WallPaper.build/WallPaper-project-headers.hmap -F/Users/julien/projet/Xcode/Cocoa/iTonio/WallPaper/build/Debug -I/Users/julien/projet/Xcode/Cocoa/iTonio/WallPaper/build/Debug/include -I/Users/julien/projet/Xcode/Cocoa/iTonio/WallPaper/build/WallPaper.build/Debug/WallPaper.build/DerivedSources/x86_64 -I/Users/julien/projet/Xcode/Cocoa/iTonio/WallPaper/build/WallPaper.build/Debug/WallPaper.build/DerivedSources -include /var/folders/-T/-TexN+12GJyc7RJJ8EcMKE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/WallPaper_Prefix-ftkjcydkbepscecrebixvppvgqeg/WallPaper_Prefix.pch -c /Users/julien/projet/Xcode/Cocoa/iTonio/WallPaper/main.m -o /Users/julien/projet/Xcode/Cocoa/iTonio/WallPaper/build/WallPaper.build/Debug/WallPaper.build/Objects-normal/x86_64/main.o0#
+
+CCompileXIB /Users/julien/projet/Xcode/Cocoa/iTonio/WallPaper/English.lproj/MainMenu.xib
+s292545868.317498
+e292545868.810455
+r1
+xCompileXIB
+x/Users/julien/projet/Xcode/Cocoa/iTonio/WallPaper/English.lproj/MainMenu.xib
+lSLF07#2@37"CompileXIB English.lproj/MainMenu.xib292545868#292545868#0(0"0(0#0#76"/Users/julien/projet/Xcode/Cocoa/iTonio/WallPaper/English.lproj/MainMenu.xib4300911832#362"    cd /Users/julien/projet/Xcode/Cocoa/iTonio/WallPaper    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/julien/projet/Xcode/Cocoa/iTonio/WallPaper/build/Debug/WallPaper.app/Contents/Resources/English.lproj/MainMenu.nib /Users/julien/projet/Xcode/Cocoa/iTonio/WallPaper/English.lproj/MainMenu.xib0#
+
+CCopyStringsFile /Users/julien/projet/Xcode/Cocoa/iTonio/WallPaper/build/Debug/WallPaper.app/Contents/Resources/English.lproj/InfoPlist.strings English.lproj/InfoPlist.strings
+s292542721.962833
+e292542722.201576
+r1
+xCopyStringsFile
+x/Users/julien/projet/Xcode/Cocoa/iTonio/WallPaper/build/Debug/WallPaper.app/Contents/Resources/English.lproj/InfoPlist.strings
+xEnglish.lproj/InfoPlist.strings
+lSLF07#2@36"Copy English.lproj/InfoPlist.strings292542721#292542722#0(0"0(0#0#81"/Users/julien/projet/Xcode/Cocoa/iTonio/WallPaper/English.lproj/InfoPlist.strings4300911832#389"    cd /Users/julien/projet/Xcode/Cocoa/iTonio/WallPaper    setenv ICONV /usr/bin/iconv    /Developer/Library/Xcode/Plug-ins/CoreBuildTasks.xcplugin/Contents/Resources/copystrings --validate --inputencoding utf-8 --outputencoding UTF-16 English.lproj/InfoPlist.strings --outdir /Users/julien/projet/Xcode/Cocoa/iTonio/WallPaper/build/Debug/WallPaper.app/Contents/Resources/English.lproj0#
+
+CLd /Users/julien/projet/Xcode/Cocoa/iTonio/WallPaper/build/Debug/WallPaper.app/Contents/MacOS/WallPaper normal x86_64
+s292548198.757403
+e292548198.807474
+r1
+xLd
+x/Users/julien/projet/Xcode/Cocoa/iTonio/WallPaper/build/Debug/WallPaper.app/Contents/MacOS/WallPaper
+xnormal
+xx86_64
+lSLF07#2@105"Link /Users/julien/projet/Xcode/Cocoa/iTonio/WallPaper/build/Debug/WallPaper.app/Contents/MacOS/WallPaper292548198#292548198#0(0"0(0#0#0"4300911832#607"    cd /Users/julien/projet/Xcode/Cocoa/iTonio/WallPaper    setenv MACOSX_DEPLOYMENT_TARGET 10.6    /Developer/usr/bin/gcc-4.2 -arch x86_64 -isysroot /Developer/SDKs/MacOSX10.6.sdk -L/Users/julien/projet/Xcode/Cocoa/iTonio/WallPaper/build/Debug -F/Users/julien/projet/Xcode/Cocoa/iTonio/WallPaper/build/Debug -filelist /Users/julien/projet/Xcode/Cocoa/iTonio/WallPaper/build/WallPaper.build/Debug/WallPaper.build/Objects-normal/x86_64/WallPaper.LinkFileList -mmacosx-version-min=10.6 -framework Cocoa -o /Users/julien/projet/Xcode/Cocoa/iTonio/WallPaper/build/Debug/WallPaper.app/Contents/MacOS/WallPaper0#
+
+CProcessInfoPlistFile /Users/julien/projet/Xcode/Cocoa/iTonio/WallPaper/build/Debug/WallPaper.app/Contents/Info.plist WallPaper-Info.plist
+s292542721.952073
+e292542721.962730
+r1
+xProcessInfoPlistFile
+x/Users/julien/projet/Xcode/Cocoa/iTonio/WallPaper/build/Debug/WallPaper.app/Contents/Info.plist
+xWallPaper-Info.plist
+lSLF07#2@28"Process WallPaper-Info.plist292542721#292542721#0(0"0(0#0#70"/Users/julien/projet/Xcode/Cocoa/iTonio/WallPaper/WallPaper-Info.plist4300911832#349"    cd /Users/julien/projet/Xcode/Cocoa/iTonio/WallPaper    builtin-infoPlistUtility WallPaper-Info.plist -genpkginfo /Users/julien/projet/Xcode/Cocoa/iTonio/WallPaper/build/Debug/WallPaper.app/Contents/PkgInfo -expandbuildsettings -platform macosx -o /Users/julien/projet/Xcode/Cocoa/iTonio/WallPaper/build/Debug/WallPaper.app/Contents/Info.plist0#
+
+CProcessPCH /var/folders/-T/-TexN+12GJyc7RJJ8EcMKE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/WallPaper_Prefix-ftkjcydkbepscecrebixvppvgqeg/WallPaper_Prefix.pch.gch WallPaper_Prefix.pch normal x86_64 objective-c com.apple.compilers.gcc.4_2
+s292517603.245900
+e292517606.473074
+r1
+xProcessPCH
+x/var/folders/-T/-TexN+12GJyc7RJJ8EcMKE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/WallPaper_Prefix-ftkjcydkbepscecrebixvppvgqeg/WallPaper_Prefix.pch.gch
+xWallPaper_Prefix.pch
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@31"Precompile WallPaper_Prefix.pch292517603#292517606#0(0"0(0#0#70"/Users/julien/projet/Xcode/Cocoa/iTonio/WallPaper/WallPaper_Prefix.pch4300911832#1504"    cd /Users/julien/projet/Xcode/Cocoa/iTonio/WallPaper    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c-header -arch x86_64 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -mmacosx-version-min=10.6 -gdwarf-2 -iquote /Users/julien/projet/Xcode/Cocoa/iTonio/WallPaper/build/WallPaper.build/Debug/WallPaper.build/WallPaper-generated-files.hmap -I/Users/julien/projet/Xcode/Cocoa/iTonio/WallPaper/build/WallPaper.build/Debug/WallPaper.build/WallPaper-own-target-headers.hmap -I/Users/julien/projet/Xcode/Cocoa/iTonio/WallPaper/build/WallPaper.build/Debug/WallPaper.build/WallPaper-all-target-headers.hmap -iquote /Users/julien/projet/Xcode/Cocoa/iTonio/WallPaper/build/WallPaper.build/Debug/WallPaper.build/WallPaper-project-headers.hmap -F/Users/julien/projet/Xcode/Cocoa/iTonio/WallPaper/build/Debug -I/Users/julien/projet/Xcode/Cocoa/iTonio/WallPaper/build/Debug/include -I/Users/julien/projet/Xcode/Cocoa/iTonio/WallPaper/build/WallPaper.build/Debug/WallPaper.build/DerivedSources/x86_64 -I/Users/julien/projet/Xcode/Cocoa/iTonio/WallPaper/build/WallPaper.build/Debug/WallPaper.build/DerivedSources -c /Users/julien/projet/Xcode/Cocoa/iTonio/WallPaper/WallPaper_Prefix.pch -o /var/folders/-T/-TexN+12GJyc7RJJ8EcMKE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/WallPaper_Prefix-ftkjcydkbepscecrebixvppvgqeg/WallPaper_Prefix.pch.gch0#
+
+CTouch /Users/julien/projet/Xcode/Cocoa/iTonio/WallPaper/build/Debug/WallPaper.app
+s292548198.807567
+e292548198.812799
+r1
+xTouch
+x/Users/julien/projet/Xcode/Cocoa/iTonio/WallPaper/build/Debug/WallPaper.app
+lSLF07#2@81"Touch /Users/julien/projet/Xcode/Cocoa/iTonio/WallPaper/build/Debug/WallPaper.app292548198#292548198#0(0"0(0#0#0"4300911832#155"    cd /Users/julien/projet/Xcode/Cocoa/iTonio/WallPaper    /usr/bin/touch -c /Users/julien/projet/Xcode/Cocoa/iTonio/WallPaper/build/Debug/WallPaper.app0#
+
