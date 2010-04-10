@@ -74,12 +74,7 @@
 objectValueForTableColumn:(NSTableColumn *)tableColumn
 			row:(int)row
 {
-	
-	NSLog(@"NSTableColumn : %d",[tableColumn identifier]);
-	
-
+	NSLog(@"Mise à jour %@",[[tableauImage objectAtIndex:row] getUrl]);
 	return [[tableauImage objectAtIndex:row] getUrl];
-	
-
 }
 @end
