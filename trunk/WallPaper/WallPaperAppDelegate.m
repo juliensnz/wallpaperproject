@@ -11,11 +11,11 @@
 
 -(void)awakeFromNib
 {
-	tableauImage = [[NSMutableArray alloc] init];
-	NSLog(@"%@",tableauImage);
+	tableau = [[NSMutableArray alloc] init];
+	NSLog(@"%@",tableau);
 }
 
-- (IBAction)chargerImage:(id)sender {
+- (IBAction)ouvrirPanneau:(id)sender {
     NSLog(@"Ouverture du panneau");
 	NSOpenPanel * panneauDeSelection = [NSOpenPanel openPanel];
 	NSString * extensions = @"jpg/jpeg/JPG/JPEG/png/PNG";
@@ -51,30 +51,30 @@
 	NSLog(@"Chargement de la photo  : %@",location);
 	Image * newImage = [[Image alloc] initWithUrl:location];
 	NSLog(@"valeur de l'image : %@",[newImage getUrl]);
-	[tableauImage addObject:newImage];
-	[tableau reloadData];
-	NSLog(@"Actualisation du tableau : %@",tableauImage);
-	[image setImage:[[NSImage alloc] initWithContentsOfURL:location]];
+	[tableau addObject:newImage];
+	[vueTableau reloadData];
+	NSLog(@"Actualisation du tableau : %@",tableau);
+	[imageView setImage:[[NSImage alloc] initWithContentsOfURL:location]];
 }
 
--(void)selectionLigne:(id)sender
+-(void)selectionnerLigne:(id)sender
 {
 	NSLog(@"Ligne Sélectionnée");
-	NSURL * url = [[tableauImage objectAtIndex:[tableau selectedRow]] getUrl];
+	NSURL * url = [[tableau objectAtIndex:[vueTableau selectedRow]] getUrl];
 	NSLog(@"Url : %@",url);
-	[image setImage:[[NSImage alloc] initWithContentsOfURL:url]];
+	[imageView setImage:[[NSImage alloc] initWithContentsOfURL:url]];
 }
 
 - (int)numberOfRowsInTableView:(NSTableView *)tableView
 {
-	return [tableauImage count];
+	return [tableau count];
 }
 
 - (id)tableView:(NSTableView *)tableView
 objectValueForTableColumn:(NSTableColumn *)tableColumn
 			row:(int)row
 {
-	NSLog(@"Mise à jour %@",[[tableauImage objectAtIndex:row] getUrl]);
-	return [[tableauImage objectAtIndex:row] getUrl];
+	NSLog(@"Mise à jour %@",[[tableau objectAtIndex:row] getUrl]);
+	return [[tableau objectAtIndex:row] getUrl];
 }
 @end

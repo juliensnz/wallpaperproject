@@ -10,15 +10,16 @@
 
 
 @interface WallPaperAppDelegate : NSObject {
-	NSMutableArray * tableauImage;
-    IBOutlet NSWindow *window;
-    IBOutlet NSImageView *image;
-	IBOutlet NSTableView *tableau;
+	IBOutlet NSWindow *window;
+    IBOutlet NSImageView *imageView;
+	IBOutlet NSTableView *vueTableau;
+	
+	NSMutableArray * tableau;
 }
 
-- (void)selectionLigne:(id)sender;
+- (void)selectionnerLigne:(id)sender;
 - (void)ajouterImage:(id)location;
-- (void)chargerImage:(id)location;
+- (IBAction)ouvrirPanneau:(id)location;
 - (void)openPanelDidEnd:(NSOpenPanel *)panel 
 			 returnCode: (int)returnCode 
 			contextInfo:(void *)contextInfo;
